@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Carlos Rodriguez",
+    "email": "carlos.rodriguez@school.com",
+    "phone": "+1-555-0301",
+    "address": "147 Maintenance St, City, State",
+    "hireDate": "2022-03-15",
+    "salary": 35000,
+    "department": "Maintenance",
+    "shift": "Morning",
+    "responsibilities": [
+      "Cleaning",
+      "General Maintenance",
+      "Setup"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maria Garcia",
+    "email": "maria.garcia@school.com",
+    "phone": "+1-555-0302",
+    "address": "258 Service Ave, City, State",
+    "hireDate": "2021-11-01",
+    "salary": 34000,
+    "department": "Custodial",
+    "shift": "Evening",
+    "responsibilities": [
+      "Cleaning",
+      "Trash Collection",
+      "Sanitization"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "James Thompson",
+    "email": "james.thompson@school.com",
+    "phone": "+1-555-0303",
+    "address": "369 Support Rd, City, State",
+    "hireDate": "2023-01-10",
+    "salary": 36000,
+    "department": "Facilities",
+    "shift": "Morning",
+    "responsibilities": [
+      "Equipment Setup",
+      "Repairs",
+      "Grounds Keeping"
+    ]
+  }
+]

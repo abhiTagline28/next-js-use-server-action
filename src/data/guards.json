@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "David Martinez",
+    "email": "david.martinez@school.com",
+    "phone": "+1-555-0401",
+    "address": "741 Security Blvd, City, State",
+    "hireDate": "2020-06-01",
+    "salary": 42000,
+    "shift": "Day",
+    "license": "Security Guard License #SG001",
+    "experience": 5,
+    "assignedArea": "Main Gate"
+  },
+  {
+    "id": 2,
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@school.com",
+    "phone": "+1-555-0402",
+    "address": "852 Patrol St, City, State",
+    "hireDate": "2021-04-15",
+    "salary": 41000,
+    "shift": "Night",
+    "license": "Security Guard License #SG002",
+    "experience": 3,
+    "assignedArea": "Campus Perimeter"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "email": "michael.brown@school.com",
+    "phone": "+1-555-0403",
+    "address": "963 Watch Ave, City, State",
+    "hireDate": "2022-08-20",
+    "salary": 40000,
+    "shift": "Evening",
+    "license": "Security Guard License #SG003",
+    "experience": 4,
+    "assignedArea": "Parking Lot"
+  }
+]

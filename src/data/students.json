@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@school.com",
+    "grade": "10th",
+    "age": 16,
+    "phone": "+1-555-0101",
+    "address": "123 Main St, City, State",
+    "enrollmentDate": "2023-09-01",
+    "gpa": 3.8,
+    "subjects": [
+      "Math",
+      "Science",
+      "English"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@school.com",
+    "grade": "11th",
+    "age": 17,
+    "phone": "+1-555-0102",
+    "address": "456 Oak Ave, City, State",
+    "enrollmentDate": "2022-09-01",
+    "gpa": 3.9,
+    "subjects": [
+      "History",
+      "Literature",
+      "Art"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "email": "mike.johnson@school.com",
+    "grade": "9th",
+    "age": 15,
+    "phone": "+1-555-0103",
+    "address": "789 Pine Rd, City, State",
+    "enrollmentDate": "2024-09-01",
+    "gpa": 3.5,
+    "subjects": [
+      "Math",
+      "Physical Education",
+      "Music"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Test1",
+    "email": "test1@yopmail.com",
+    "grade": "10th",
+    "age": 18,
+    "phone": "+91 1234567891",
+    "address": "gdbgbgfbfgbgbgb",
+    "enrollmentDate": "2025-08-25",
+    "gpa": 1,
+    "subjects": [
+      "English",
+      "hindi"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Test 2",
+    "email": "test2@yopmail.com",
+    "grade": "9th",
+    "age": 17,
+    "phone": "+91 1234567891",
+    "address": "dcddscsdcds",
+    "enrollmentDate": "2025-08-25",
+    "gpa": 2,
+    "subjects": [
+      "English",
+      "Science"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Test 3",
+    "email": "test3@yopmail.com",
+    "grade": "9th",
+    "age": 16,
+    "phone": "+91 1234567891",
+    "address": "dcdcdc dcsdcdsc",
+    "gpa": 2.2,
+    "subjects": [
+      "English"
+    ],
+    "createdAt": "2025-08-26T06:11:34.859Z",
+    "updatedAt": "2025-08-26T06:11:34.859Z"
+  }
+]
